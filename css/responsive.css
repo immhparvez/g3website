@@ -68,7 +68,38 @@
     font-size: 38px;
   }
   .information-features p {
- 
     margin: 20px 20px;
-}
+  }
+  .fact-title h3 {
+    font-size: 40px;
+  }
+  .information-features {
+    max-width: 540px;
+  }
+  .facts-container {
+    flex-direction: column;
+  }
+  .sponspors-img {
+    flex-direction: column;
+  }
+
+  .information-features {
+    max-width: 100%;
+    text-align: center;
+  }
+  .fact-items {
+    margin-bottom: 20px;
+  }
+  .spon-description {
+    padding: 20px;
+  }
+  .spon-item {
+    margin-bottom: 30px;
+  }
+  .footer-color {
+    border-radius: 8px;
+    background: #fff4e7;
+    padding: 20px;
+    margin-bottom: 0px;
+  }
 }
