@@ -124,3 +124,78 @@ p.team_description {
   color: #ff900e;
   font-weight: 700;
 }
+.information-features-title {
+  font-size: 45px;
+  font-weight: 700;
+  color: black;
+}
+.information-features p {
+  color: #727272;
+  font-size: 16px;
+  font-weight: 400;
+}
+.secound-title {
+  color: #131313;
+  font-weight: 600;
+  font-size: 20px;
+}
+.features-items {
+  margin-top: 50px;
+}
+.features-service {
+  margin-bottom: 30px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  padding: 15px 20px;
+}
+.all-items {
+  display: flex;
+
+  margin-top: 50px;
+}
+.big-features-aria {
+  padding-right: 60px;
+}
+.information-features-title {
+  margin-bottom: 50px;
+  border-left: 5px solid #ff900e;
+  padding-left: 20px;
+}
+.secound-title {
+  padding-bottom: 20px;
+}
+.big-features-aria,
+.custom-img {
+  max-width: 50%;
+}
+.custom-img{
+  padding-left: 20px;
+}
+.custom-img img {
+  max-width: 100%;
+}
+.btn-main-10years {
+  margin-left: -50px;
+  margin-top: -80px;
+  width: 300px;
+  height: 150px;
+
+  border-radius: 8px;
+  background: #ff900e;
+  border: 0;
+}
+.btn-main-10years h2 {
+  color: #fff;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 50px; /* 107.692% */
+}
+.btn-main-10years p {
+  color: #fff;
+  font-size: 20px;
+
+  font-weight: 500;
+  line-height: 40px;
+}

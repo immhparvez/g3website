@@ -42,5 +42,33 @@
   }
   .main-description-text p {
     margin-bottom: 20px;
+  }
+  .all-items {
+    flex-direction: column;
+  }
+  .big-features-aria,
+  .custom-img {
+    max-width: 100%;
+  }
+  .big-features-aria {
+    padding-right: 0px;
+  }
+  .custom-img {
+    text-align: center;
+    padding-left: 0px;
+  }
+  .custom-img img {
+    max-width: 90%;
+  }
+  .features-service {
+    margin: 20px;
+  }
+  .information-features-title {
+    margin: 0px 20px;
+    font-size: 38px;
+  }
+  .information-features p {
+ 
+    margin: 20px 20px;
 }
 }
